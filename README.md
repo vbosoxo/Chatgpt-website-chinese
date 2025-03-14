@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）25年3月13日更新
+# ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3，无需翻墙）25年3月15日更新
 
-> 更新时间：2025/03/13
+> 更新时间：2025/03/15
 >
 > 作者：vbosoxo
 
@@ -46,7 +46,7 @@
 
 | **镜像站地址** | **支持版本** | **免费额度** | **注册方式** | **稳定性** | **功能亮点** |
 |----------------|--------------|--------------|--------------|------------|--------------|
-| **[songshugpt.com](https://songshugpt.com)**   | GPT-4, GPT-o1 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| **[songshugpt.com](https://songshugpt.com)**   | GPT-4, GPT-o1，GPT-o3、deepseek、grok3 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | **[gptdog.online](https://gptdog.online)m**| GPT-4, GPT-o1 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-o1 模型 |
 | **[gptcat.net](https://gptcat.net)**| GPT-4, GPT-3.5| 有           | 国内扫码     | ⭐⭐⭐⭐       | 支持开发者 API，提供长时间服务 |
 
