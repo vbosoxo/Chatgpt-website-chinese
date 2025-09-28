@@ -11,7 +11,7 @@
 本项目旨在为用户提供一站式的 ChatGPT 中文版使用指南，同时整理了国内可用的 ChatGPT 镜像网站和官网使用教程，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 - **ChatGPT 官网入口**: [https://openai.com/](https://openai.com/)
-- **ChatGPT 镜像网站**: [https://songshugpt.com/](https://songshugpt.com/)
+- **ChatGPT 镜像网站**: [https://www.songshugpt.com/](https://www.songshugpt.com/)
 
 ---
 
@@ -46,7 +46,7 @@
 
 | **镜像站地址** | **支持版本** | **免费额度** | **注册方式** | **稳定性** | **功能亮点** |
 |----------------|--------------|--------------|--------------|------------|--------------|
-| **[songshugpt.com](https://songshugpt.com)**   | GPT-3.5、GPT-4、GPT-o1、GPT-o3、deepseek、grok3 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| **[www.songshugpt.com](https://www.songshugpt.com)**   | GPT-3.5、GPT-4、GPT-o1、GPT-o3、deepseek、grok3 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | **[gptdog.online](https://gptdog.online)m**| GPT-4, GPT-o1 | 有           | 国内扫码     | ⭐⭐⭐⭐⭐      | 支持 GPT-o1 模型 |
 | **[gptcat.net](https://gptcat.net)**| GPT-4, GPT-3.5| 有           | 国内扫码     | ⭐⭐⭐⭐       | 支持开发者 API，提供长时间服务 |
 
@@ -70,7 +70,7 @@
 
 ### 方法一：通过镜像网站快速体验
 
-1. **选择镜像站点**：访问推荐的镜像站点（如[songshugpt.com](https://songshugpt.com)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如[www.songshugpt.com](https://www.songshugpt.com)）。
 2. **注册或直接使用**：
    - **邮箱注册**：填写邮箱和密码，完成账号创建。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
